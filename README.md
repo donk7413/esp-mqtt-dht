@@ -43,3 +43,6 @@ I'm using ESP8266-01 microcontrollers for my sensors because they are so cheap a
 #### Wiring
 For my sensors, I've soldered a simple proto-board. They aren't very pretty, but here is the basic wiring.
 ![ESP DHT Wiring](https://raw.githubusercontent.com/corbanmailloux/esp-mqtt-dht/master/ESP%20DHT_bb.png)
+
+
+https://wikifab.org/wiki/Mise_en_service_d%27un_thermom%C3%A8tre_connect%C3%A9
